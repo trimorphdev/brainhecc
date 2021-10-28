@@ -7,7 +7,7 @@ It compiles any valid Brainhecc program into an executable binary.
 
 ### Prerequisites
 - Cargo/Rust, to install & build the Brainhecc program.
-- GCC (or any other linker), required to link Brainheck programs.
+- GCC (or any other linker), required to link Brainhecc programs.
 
 > Note: to compile Brainhecc programs, any linker may be used, *but* Brainhecc programs must be linked with the C standard library, otherwise compiled programs won't work.
 
